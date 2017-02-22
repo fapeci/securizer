@@ -1,0 +1,2 @@
+# securizer
+Unsecure apps detector
